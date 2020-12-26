@@ -17,3 +17,5 @@ Armtek HTTP клиент для работы с веб-сервисами (JSON 
     //user_login'         => '{ЛОГИН}'   // установить логин для вызова примеров 
     //user_password'      => '{ПАРОЛЬ}'  // установить пароль для вызова примеров
 
+
+Вязто отсюда: http://ws.armtek.ru/?page=material&alias=rest-examples
